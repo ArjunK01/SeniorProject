@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col",
+				"col-md-12"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arjunkumar/Desktop/Senior Project/index.html",
+		"/Users/arjunkumar/Desktop/Senior Project/first.html",
+		"/Users/arjunkumar/Desktop/HTML/CodeCademy Tutorial/style.css",
+		"/Users/arjunkumar/Desktop/HTML/CodeCademy Tutorial/index.html",
+		"/Users/arjunkumar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/02D77259-27F1-4B7A-B786-072D29CE5897/BankAccount.java",
+		"/Users/arjunkumar/Downloads/CEMacApril2012-2/main.lua",
+		"/Users/arjunkumar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A3F179ED-710B-41E4-9F84-B102BDDA476E/LoopNotes.java",
+		"/Users/arjunkumar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/CD32DA90-BB2C-4BA0-B3EC-FFFFAFADFC3E/IfNotesContinued.java",
+		"/Users/arjunkumar/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/18A025D0-E3D8-473A-8B3B-FC4B627A0ADB/StaticVsNonStatic.java",
+		"/Users/arjunkumar/Desktop/HTML/index.html",
+		"/Users/arjunkumar/Desktop/HTML/page2.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/HTML/CodeCademy Tutorial/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

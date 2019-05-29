@@ -1,0 +1,144 @@
+* {
+  /*border: 1px solid black;*/
+  padding: 0px;
+  margin: 0px;
+  font-family: arial;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+body {
+  height: 1000px;
+  width: 100%;
+  background-image: url(escheresque.png);
+  overflow-x: hidden;
+}
+header {
+  width: 100%;
+  padding: 10px;
+  background-color: #323d4f;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header p {
+
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+
+
+  text-align: center;
+
+}
+header span {
+	width: 200px;
+}
+
+
+
+.dropdown {
+
+  display:inline-block;
+  float: left;
+
+}
+
+
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px;
+  font-size: 16px;
+  transform: skew(-5deg);
+  width: 200px;
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  text-align: left;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41}
+
+.content{
+	width: 80%;
+	background-color: white;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 10px;
+}
+ .footer{
+  height: 20px;
+ }
+body{
+  height: 100%;
+}
+header{
+  padding-top: 0px;
+
+}
+@media only screen and (max-width: 600px){
+  
+
+  header{
+    display: inline-flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 1px;
+    height: 40px;
+    padding-bottom: 10px;
+  }
+
+  .dropdown{
+    width: 100%;
+    margin: 0px;
+  }
+  header p{
+    margin: auto;
+  }
+  .dropdown-content{
+    width: 96.5%;
+    text-align: center;
+  }
+  header span {
+  	display: none;
+  }
+}
