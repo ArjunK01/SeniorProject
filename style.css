@@ -3,6 +3,11 @@
   padding: 0px;
   margin: 0px;
   font-family: arial;
+
+}
+img {
+  width: 40%;
+  text-align: center;
 }
 a{
   text-decoration: none;
@@ -97,7 +102,7 @@ header span {
 .content{
 	width: 80%;
 	background-color: white;
-	height: 600px;
+  border: 1px solid #4CAF50;
 	margin: 0 auto;
 	margin-top: 20px;
   border-radius: 5px;
@@ -114,7 +119,7 @@ header{
   padding-top: 0px;
 
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 1000px){
   
 
   header{
@@ -131,12 +136,20 @@ header{
     width: 100%;
     margin: 0px;
   }
+  img{
+    width: 60%;
+  }
   header p{
     margin: auto;
   }
   .dropdown-content{
     width: 96.5%;
     text-align: center;
+
+  }
+  .content{
+    text-align: center;
+
   }
   header span {
   	display: none;
